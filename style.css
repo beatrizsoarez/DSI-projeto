@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:wght@500&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(199, 237, 255);
+    
+}
+head{
+    font-family: 'Helvetica';
+}
+.content{
+    font-family: 'Roboto';
+    width:75%;
+    background-color: rgb(232, 236, 243); 
+    padding: 35px;
+    padding-top: 0px;
+    margin: auto;
+    top: 0px;
+    text-align: center;
+
+}
+.glossario{
+    text-align: left;
+    
+}
+.home{
+    text-align: left;
+    color: #3a358b;
+
+
+}
+.titulo{
+    font-family: Arial;
+    text-align: left;
+    color: rgb(53, 53, 53);
+    font-size: 1.2em;
+
+
+}
+.titulos{
+    color: #3d31ff;
+    font-family: Helvetica;
+    text-align: center;
+}
+.autor{
+    font-family: Arial;
+    text-align: center;
+    color: #3d31ff;
+    font-size: 1.2em;
+}
+.links{
+    text-align: left;
+    color:rgb(0, 0, 0);
+}
+.biografia{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:  Helvetica;
+}
+.lista{
+    color: rgb(0, 0, 0);
+    font-family:  Helvetica;
+}
